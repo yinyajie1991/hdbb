@@ -5,7 +5,7 @@ public class UserController {
 
     public void addUser(){
 
-        System.out.println("尹亚姐二比");
+        System.out.println("尹亚姐二比  me");
     }
 
 }
