@@ -10,4 +10,8 @@ public class HdbbApplication {
         SpringApplication.run(HdbbApplication.class, args);
     }
 
+
+    public void test(){
+
+    }
 }
